@@ -41,10 +41,10 @@ I’m passionate about uncovering insights from data and communicating them in a
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/jatin-chaurawar-824547230)  
+- ### 📱 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-chaurawar-824547230)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.jatinchaurawar._)
 - 📫 Email: `jatin.chaurawar@example.com`
-- [Instagram](https://www.instagram.com/_.jatinchaurawar._)
-
 
 ---
 
