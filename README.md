@@ -41,7 +41,7 @@ I’m passionate about uncovering insights from data and communicating them in a
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/jatin-chaurawar-824547230)  
 - 📫 Email: `jatin.chaurawar@example.com`
 
 ---
