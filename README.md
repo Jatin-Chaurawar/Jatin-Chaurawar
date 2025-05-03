@@ -8,7 +8,6 @@
 I’m passionate about uncovering insights from data and communicating them in a simple, impactful way. Whether it's SQL queries or Python notebooks, I enjoy the art of solving real-world problems using data.
 
   
-- 📊 Skilled in:
 - ### 🛠️ Skilled In
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
