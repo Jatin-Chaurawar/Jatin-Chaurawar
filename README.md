@@ -1,61 +1,71 @@
-<h1 align="center">Hi 👋, I'm Jatin Chaurawar</h1>
-<h3 align="center">Data Analytics Enthusiast | Microsoft Excel & Power BI | SQL & Python Explorer</h3>
+# 👋 Hi, I'm Jatin Chaurawar
+
+🎯 *Aspiring Data Analyst | SQL & Python | Power BI & Excel Enthusiast*
 
 ---
 
 ## 🧠 About Me
 
-I’m passionate about uncovering insights from data and communicating them in a simple, impactful way. Whether it's SQL queries or Python notebooks, I enjoy the art of solving real-world problems using data.
+I’m a passionate data analyst skilled in extracting actionable insights from raw datasets using tools like SQL, Python, Excel, and Power BI. I enjoy solving real-world business problems through data exploration, visualization, and storytelling.
 
-  
-- ### 🛠️ Skilled In
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-- ✍️ I write about: Data analytics, problem-solving techniques, and project breakdowns  
+- 🎓 B.Tech in Information Technology (2024) from PBCE, Nagpur
+- 💼 Proficient in data analytics through academic & personal projects
+- 🔍 Interests: Data Visualization | Business Intelligence | Predictive Analytics
 
 ---
 
-## 🚀 Projects Highlights
+## 🛠️ Technical Skills
 
-### 🔐 Fraud Detection System
-> Machine Learning model to identify fraudulent transactions  
-> 💡 Features: Data preprocessing, classification, and model evaluation
+**Languages & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+Pandas | NumPy | Matplotlib | Seaborn  
 
-### 📦 Sales & Orders Analysis (MySQL + Power BI)
-> SQL-driven analysis of customer, orders & product datasets  
-> 📊 Output: Interactive dashboards and visual reports  
-
-### 🛍️ Customer Segmentation with Python
-> Applied K-Means clustering for behavioral segmentation  
-> 📈 Used: Matplotlib, Seaborn, Scikit-learn  
+**Soft Skills**  
+Problem Solving | Communication | Storytelling with Data  
 
 ---
 
-## ✍️ Latest Articles
+## 🚀 Projects
 
-- 📘 *Understanding the Power of SQL Joins with Real Examples*
-- 📘 *How to Spot Outliers in Your Data*
-- 📘 *E-commerce Analytics: Finding Best-Selling Products*
-
-> 🗒️ *More coming soon...*
-
----
-
-## 🌐 Let's Connect
-
-- ### 📱 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-chaurawar-824547230)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.jatinchaurawar._)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatin.chaurawar@gmail.com)
+### 🚗 [CAR Sales Analysis – Power BI](https://github.com/Jatin-Chaurawar/CARs-Sales-Analysis-Power-BI-Dashboard-)
+- Built an interactive Power BI dashboard with dynamic filters
+- Visualized key metrics: Revenue, Units Sold, Avg. Price by brand/region
+- Enabled data-driven decisions through clear visual insights
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile! 😊  
-</p>
+### 👩‍💼 [HR Employee Attrition – Python](https://github.com/Jatin-Chaurawar/HR-Analytics-Employee-Attrition-Analysis-Python-)
+- Analyzed employee attrition using Pandas & Seaborn
+- Explored variables like job satisfaction and work-life balance
+- Delivered HR insights to reduce turnover risk
+
+---
+
+### 🛒 [BlinkIT Sales Dashboard – Excel](https://github.com/Jatin-Chaurawar/BlinkIt-Project-Excel)
+- Cleaned and analyzed sales data using pivot tables and slicers
+- Visualized trends in product categories and customer ratings
+- Created a dashboard using advanced Excel features
+
+---
+
+### 📱 [Flipkart Mobile Dataset – MySQL](https://github.com/Jatin-Chaurawar/Flipkart-Mobile-Dataset-Analysis)
+- Wrote optimized SQL queries for 100+ mobile products
+- Derived pricing trends, brand performance, and review stats
+- Structured data for better querying and insights
+
+---
+
+## 📈 GitHub Stats
+
+![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jatin-Chaurawar&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-chaurawar)  
+📧 jatin.chaurawar@gmail.com  
+📍 Nagpur, Maharashtra  
