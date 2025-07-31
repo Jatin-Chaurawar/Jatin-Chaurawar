@@ -58,12 +58,6 @@ Problem Solving | Communication | Storytelling with Data
 
 ---
 
-## 📈 GitHub Stats
-
-![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jatin-Chaurawar&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-chaurawar)  
