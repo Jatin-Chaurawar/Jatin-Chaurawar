@@ -63,16 +63,6 @@ Crafted advanced SQL queries to explore mobile pricing trends, reviews, and bran
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jatin-Chaurawar&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-Chaurawar&theme=radical" alt="GitHub streak" />
-</p>
-
----
-
 ### 🌐 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-chaurawar)  
