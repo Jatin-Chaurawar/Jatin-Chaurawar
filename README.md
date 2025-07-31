@@ -50,6 +50,15 @@ Crafted advanced SQL queries to explore mobile pricing trends, reviews, and bran
 
 ---
 
+## 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Chaurawar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+---
+
 ### 📝 I Write About
 - 🔍 Data storytelling & visual analytics  
 - 🧠 Practical SQL & Python examples  
