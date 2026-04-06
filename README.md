@@ -90,12 +90,12 @@ analyst = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jatin-Chaurawar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&include_all_commits=true&title_color=1ABC9C&icon_color=1ABC9C&text_color=FFFFFF&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jatin-Chaurawar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=1ABC9C&icon_color=1ABC9C&text_color=FFFFFF&bg_color=0D1117" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Jatin-Chaurawar&theme=tokyonight&hide_border=true&background=0D1117&ring=1ABC9C&fire=F7931E&currStreakLabel=1ABC9C" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Chaurawar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1ABC9C&text_color=FFFFFF" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Chaurawar&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=1ABC9C&text_color=FFFFFF" />
 
 </div>
 
