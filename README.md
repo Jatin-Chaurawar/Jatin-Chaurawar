@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=250&section=header&text=Jatin%20Chaurawar&fontSize=75&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20|%20B.Tech%20IT%20'24&descSize=22&descAlignY=62" />
 
 <a href="https://linkedin.com/in/jatin-chaurawar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=🔍+Transforming+10K%2B+Rows+into+Revenue+Insights;📊+Power+BI+Dashboard+Specialist;🐍+Python+for+EDA+%26+Predictive+Modeling;🎯+Seeking+Data+Analyst+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=🔍+Transforming+10K%2B+Rows+into+Revenue+Insights;📊+Power+BI+Dashboard+Specialist;🐍+Python+for+EDA+%26+Predictive+Modeling;🎯+Seeking+Data+Analyst+Roles" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 A results-driven **Data Analyst** and 2024 IT graduate based in Nagpur, India. I specialize in bridging the gap between raw data and business strategy using the **Power BI + SQL + Python** stack.
 
-* **Education:** B.Tech in Information Technology (2024).
-* **Mission:** Turning "messy data" into high-impact, actionable narratives.
-* **Focus:** Exploratory Data Analysis (EDA), KPI Dashboarding, and Customer Segmentation.
+* **Education**: B.Tech in Information Technology (2024).
+* **Mission**: Turning "messy data" into high-impact, actionable narratives.
+* **Focus**: Exploratory Data Analysis (EDA), KPI Dashboarding, and Customer Segmentation.
 
 ---
 
@@ -44,14 +44,14 @@ A results-driven **Data Analyst** and 2024 IT graduate based in Nagpur, India. I
 ## 🚀 Impact Highlights (Selected Projects)
 
 ### 📉 [Telecom Customer Churn Analysis](https://github.com/Jatin-Chaurawar/Telecom-Customer-Churn-Analysis)
-* **The Problem:** High attrition rate threatening annual revenue.
-* **The Action:** Built a Power BI dashboard analyzing 10,000+ records using advanced DAX.
-* **The Result:** Identified key churn drivers and highlighted a **$500K revenue risk**.
+* **The Problem**: High attrition rate threatening annual revenue.
+* **The Action**: Built a Power BI dashboard analyzing 10,000+ records using advanced DAX.
+* **The Result**: Identified key churn drivers and highlighted a **$500K revenue risk**.
 
 ### 🛍️ [E-commerce Customer Analytics](https://github.com/Jatin-Chaurawar/Ecommerce-Customer-Analytics-SQL)
-* **The Problem:** Fragmented customer data preventing targeted marketing.
-* **The Action:** Designed complex MySQL queries involving multi-table joins and aggregations.
-* **The Result:** Segmented customers by retention patterns and lifetime value (LTV).
+* **The Problem**: Fragmented customer data preventing targeted marketing.
+* **The Action**: Designed complex MySQL queries involving multi-table joins and aggregations.
+* **The Result**: Segmented customers by retention patterns and lifetime value (LTV).
 
 ---
 
@@ -59,8 +59,8 @@ A results-driven **Data Analyst** and 2024 IT graduate based in Nagpur, India. I
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jatin-Chaurawar&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Chaurawar&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jatin-Chaurawar&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Jatin's GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Chaurawar&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" />
 
 </div>
 
