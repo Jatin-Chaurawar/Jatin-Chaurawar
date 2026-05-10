@@ -1,12 +1,10 @@
 <div align="center">
 
-# Jatin Chaurawar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,100:001F3F&text=JATIN%20CHAURAWAR&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20•%20BUSINESS%20INTELLIGENCE%20•%20AI%20ENTHUSIAST&descAlignY=58&descSize=18"/>
 
-### Data Analyst • Business Intelligence Developer • Aspiring AI & ML Professional
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Transforming+Raw+Data+Into+Business+Intelligence;Building+Scalable+Analytics+Solutions;Power+BI+%7C+SQL+%7C+Python+%7C+Machine+Learning;Creating+Insightful+Dashboards+That+Drive+Decisions"/>
 
-Transforming raw datasets into strategic business insights through analytics, visualization, and intelligent decision-making systems.
-
-<p align="center">
+<br/>
 
 <a href="mailto:jatin.chaurawar@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -20,543 +18,298 @@ Transforming raw datasets into strategic business insights through analytics, vi
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=DATA%20ANALYTICS%20PORTFOLIO&fontSize=45&fontColor=00B4D8&animation=fadeIn"/>
+<img src="https://komarev.com/ghpvc/?username=Jatin-Chaurawar&style=for-the-badge&color=00D9FF"/>
 
 </div>
 
 ---
 
-# Table of Contents
+# ⚡ About Me
 
-- [About The Portfolio](#about-the-portfolio)
-- [Goals](#goals)
-- [Tech Stack](#tech-stack)
-- [Architecture Overview](#architecture-overview)
-- [Featured Projects](#featured-projects)
-- [Machine Learning & AI Direction](#machine-learning--ai-direction)
-- [Quick Start](#quick-start)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [API Reference](#api-reference)
-- [Data & Reproducibility](#data--reproducibility)
-- [Testing Strategy](#testing-strategy)
-- [Deployment Notes](#deployment-notes)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Roadmap](#roadmap)
-- [Changelog](#changelog)
-- [License](#license)
-- [Contact](#contact)
-
----
-
-# About The Portfolio
-
-This repository represents my professional Data Analytics and Business Intelligence portfolio.
-
-The focus of this portfolio is to:
-- Solve real-world business problems using analytics
-- Build scalable dashboards and reporting systems
-- Perform exploratory and statistical data analysis
-- Develop SQL-driven business insights
-- Transition progressively into Machine Learning and AI-powered analytics
-
-This portfolio includes:
-- SQL analytics projects
-- Power BI dashboards
-- Customer and sales analytics
-- Data cleaning pipelines
-- Exploratory Data Analysis (EDA)
-- Beginner-level Machine Learning experiments
-
----
-
-# Goals
-
-## Current Goals
-- Secure a Data Analyst / BI Analyst role
-- Build enterprise-grade dashboards
-- Strengthen SQL optimization skills
-- Improve storytelling through visualization
-
-## Long-Term Goals
-- Become an AI-powered analytics specialist
-- Build predictive analytics systems
-- Develop end-to-end ML workflows
-- Learn cloud analytics and data engineering
-
----
-
-# Tech Stack
-
-## Analytics & Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-## Visualization & BI
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-
-## Data Engineering & Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-
-## Machine Learning Foundations
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-
----
-
-# Architecture Overview
-
-The analytics workflow follows a modular business intelligence pipeline.
-
-```text
-                    ┌────────────────────┐
-                    │   Raw Data Source  │
-                    └─────────┬──────────┘
-                              │
-                              ▼
-                    ┌────────────────────┐
-                    │ Data Cleaning &    │
-                    │ Transformation     │
-                    └─────────┬──────────┘
-                              │
-                              ▼
-                    ┌────────────────────┐
-                    │ Exploratory Data   │
-                    │ Analysis (EDA)     │
-                    └─────────┬──────────┘
-                              │
-               ┌──────────────┴──────────────┐
-               ▼                             ▼
-     ┌──────────────────┐        ┌──────────────────┐
-     │ Business KPIs    │        │ Statistical & ML │
-     │ Dashboarding     │        │ Analysis         │
-     └─────────┬────────┘        └─────────┬────────┘
-               ▼                           ▼
-      ┌──────────────────┐      ┌──────────────────┐
-      │ Power BI Reports │      │ Predictive Models│
-      └──────────────────┘      └──────────────────┘
+```yaml
+Name: Jatin Chaurawar
+Role: Data Analyst
+Location: Nagpur, Maharashtra, India
+Focus:
+  - Business Intelligence
+  - Data Analytics
+  - Dashboard Development
+  - SQL Analytics
+  - AI & Machine Learning
+Currently Learning:
+  - Advanced Power BI
+  - Machine Learning
+  - AI Engineering
 ```
 
+I’m a Data Analyst passionate about transforming raw datasets into strategic business decisions through analytics, dashboards, and intelligent reporting systems.
+
+My work combines:
+- Business understanding
+- Data storytelling
+- KPI-driven reporting
+- SQL analytics
+- Visualization engineering
+- AI-powered analytical thinking
+
+I enjoy solving business problems using:
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Data Visualization
+
 ---
 
-# Featured Projects
+# 🧠 Core Expertise
 
-# Telecom Customer Churn Analysis
+<div align="center">
 
-## Business Problem
-Telecom companies face revenue leakage due to customer churn and poor retention visibility.
+| Analytics | Visualization | Engineering | AI / ML |
+|---|---|---|---|
+| SQL | Power BI | MySQL | scikit-learn |
+| Python | Tableau | PostgreSQL | Regression |
+| Excel | Matplotlib | Git/GitHub | Clustering |
+| Pandas | Seaborn | VS Code | Predictive Analytics |
 
-## Solution
-Developed a Power BI dashboard analyzing 10,000+ customer records using:
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+## 📊 Telecom Customer Churn Intelligence
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin-Chaurawar&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+### 🔍 Problem
+Customer attrition causing revenue leakage and poor retention visibility.
+
+### ⚙️ Solution
+Built a Power BI analytics suite using:
 - DAX calculations
 - KPI tracking
 - Churn segmentation
-- Customer trend analysis
+- Customer behavior analysis
 
-## Business Impact
+### 📈 Impact
 - Identified major churn drivers
-- Estimated revenue risk exceeding $500K
-- Improved visibility into customer retention trends
+- Highlighted estimated revenue risk of **$500K+**
+- Enabled data-driven retention strategy
 
-## Repository
-https://github.com/Jatin-Chaurawar/Telecom-Customer-Churn-Analysis
+🔗 Repository  
+👉 https://github.com/Jatin-Chaurawar/Telecom-Customer-Churn-Analysis
 
 ---
 
-# E-Commerce Customer Analytics
+## 🛒 E-Commerce Strategic Analytics
 
-## Business Problem
-Limited visibility into customer lifetime value and purchasing behavior.
+### 🔍 Problem
+Lack of customer segmentation and lifetime value visibility.
 
-## Solution
-Created SQL-based customer analytics workflows including:
+### ⚙️ Solution
+Engineered SQL analytics pipelines for:
 - Cohort analysis
-- Revenue segmentation
-- Customer behavior analytics
-- Retention metrics
+- Customer segmentation
+- Retention analysis
+- Revenue insights
 
-## Business Impact
-- Enabled data-driven retention strategies
-- Improved customer segmentation analysis
+### 📈 Impact
+- Improved customer understanding
+- Supported strategic retention planning
+- Enhanced decision-making using behavioral analytics
 
-## Repository
-https://github.com/Jatin-Chaurawar/Ecommerce-Customer-Analytics-SQL
-
----
-
-# Machine Learning & AI Direction
-
-This portfolio is gradually evolving toward intelligent analytics systems.
-
-## Planned AI/ML Areas
-- Predictive Analytics
-- Customer Churn Prediction
-- Recommendation Systems
-- Classification Models
-- Forecasting
-- NLP-based business analytics
+🔗 Repository  
+👉 https://github.com/Jatin-Chaurawar/Ecommerce-Customer-Analytics-SQL
 
 ---
 
-# AI Problem Statement
-
-Modern businesses require systems capable of:
-- Predicting customer behavior
-- Detecting anomalies
-- Automating reporting
-- Enhancing strategic decision-making
-
-The future direction of this portfolio aims to bridge:
-- Business Intelligence
-- Machine Learning
-- AI-driven automation
-
----
-
-# Data Considerations
-
-## Data Quality Priorities
-- Missing value handling
-- Duplicate removal
-- Outlier treatment
-- Schema consistency
-- Data normalization
-
-## Ethical Considerations
-- Responsible AI usage
-- Bias minimization
-- Transparent analytics
-- Reproducible workflows
-
----
-
-# Model Lifecycle (Planned)
+# 🧩 Analytics Workflow
 
 ```text
-Data Collection
-      ↓
-Data Cleaning
-      ↓
-Feature Engineering
-      ↓
-Model Training
-      ↓
-Evaluation
-      ↓
-Deployment
-      ↓
-Monitoring & Retraining
+           ┌────────────────────┐
+           │   Raw Business Data │
+           └──────────┬─────────┘
+                      │
+                      ▼
+          ┌──────────────────────┐
+          │ Data Cleaning & EDA  │
+          └──────────┬───────────┘
+                     │
+                     ▼
+         ┌────────────────────────┐
+         │ KPI & Statistical      │
+         │ Analysis               │
+         └──────────┬─────────────┘
+                    │
+      ┌─────────────┴─────────────┐
+      ▼                           ▼
+┌───────────────┐       ┌────────────────┐
+│ BI Dashboards │       │ ML Predictions │
+└───────────────┘       └────────────────┘
 ```
 
 ---
 
-# Evaluation Metrics (Planned)
+# 🛠️ Tech Stack
 
-Potential metrics for ML projects:
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- ROC-AUC
-- Mean Absolute Error (MAE)
+<div align="center">
 
----
+## Languages & Analytics
 
-# Quick Start
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode"/>
 
-Clone the repository:
+<br/><br/>
 
-```bash
-git clone https://github.com/Jatin-Chaurawar/portfolio.git
-```
+## Libraries & Visualization
 
-Move into the project directory:
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
-```bash
-cd portfolio
-```
+</div>
 
 ---
 
-# Installation
-
-## Create Virtual Environment
+# 📂 Project Structure
 
 ```bash
-python -m venv venv
-```
-
-Activate environment:
-
-### Windows
-```bash
-venv\Scripts\activate
-```
-
-### Linux/Mac
-```bash
-source venv/bin/activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-# Usage
-
-## Run Data Analysis Notebook
-
-```bash
-jupyter notebook
-```
-
-## Execute Python Script
-
-```bash
-python analysis.py
-```
-
-## Run SQL Queries
-
-```sql
-SELECT *
-FROM customers
-LIMIT 10;
-```
-
-## Launch Dashboard
-
-Open Power BI `.pbix` files using:
-- Microsoft Power BI Desktop
-
----
-
-# Project Structure
-
-```bash
-portfolio/
+Jatin-Chaurawar/
 │
 ├── datasets/
 ├── notebooks/
 ├── dashboards/
 ├── sql_queries/
-├── scripts/
-├── images/
 ├── reports/
-├── requirements.txt
+├── images/
+├── machine_learning/
 └── README.md
 ```
 
 ---
 
-# API Reference
+# 📈 GitHub Analytics
 
-> Placeholder section for future analytics APIs.
+<div align="center">
 
-## Planned Endpoints
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jatin-Chaurawar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
 
-### Get KPI Metrics
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Chaurawar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 
-```http
-GET /api/kpis
-```
+<br/><br/>
 
-### Retrieve Customer Insights
+<img width="98%" src="https://streak-stats.demolab.com?user=Jatin-Chaurawar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF"/>
 
-```http
-GET /api/customers/{id}
-```
-
-### Predict Churn Probability
-
-```http
-POST /api/predict/churn
-```
-
-Example payload:
-
-```json
-{
-  "customer_age": 32,
-  "monthly_spend": 120,
-  "contract_type": "monthly"
-}
-```
+</div>
 
 ---
 
-# Data & Reproducibility
+# 🤖 AI & Machine Learning Journey
 
-Each analytics project includes:
-- Dataset references
-- SQL scripts
-- Dashboard screenshots
-- Cleaning workflows
-- Business insights
-- Documentation
+Currently building skills in:
+- Machine Learning
+- Predictive Analytics
+- Classification Models
+- Regression Systems
+- AI-Powered Business Intelligence
 
-## Reproducibility Standards
-
-Projects aim to follow:
-- Consistent naming conventions
-- Structured folder hierarchy
-- Version-controlled workflows
-- Notebook documentation
+### Planned Projects
+- Customer Churn Prediction
+- Sales Forecasting
+- Recommendation Systems
+- Fraud Detection Analytics
+- NLP-based Insight Extraction
 
 ---
 
-# Testing Strategy
-
-## Current Testing
-- SQL query validation
-- Dashboard KPI verification
-- Data integrity checks
-
-## Planned Testing
-- Unit testing for ML pipelines
-- API endpoint testing
-- Automated validation workflows
-
-Example:
+# 📊 Example Analytics Workflow
 
 ```python
-assert df.isnull().sum().sum() == 0
+import pandas as pd
+
+# Load dataset
+df = pd.read_csv("sales_data.csv")
+
+# Clean data
+df.dropna(inplace=True)
+
+# KPI Analysis
+monthly_sales = df.groupby("Month")["Revenue"].sum()
+
+print(monthly_sales)
 ```
 
 ---
 
-# Deployment Notes
+# 🧪 Development & Deployment
 
-## Current Deployment Methods
-- GitHub repositories
-- Power BI Desktop dashboards
+## Workflow
+
+```bash
+git clone https://github.com/Jatin-Chaurawar
+cd portfolio
+
+pip install -r requirements.txt
+
+jupyter notebook
+```
 
 ## Future Deployment Plans
 - Streamlit dashboards
-- Flask/FastAPI analytics APIs
-- Cloud deployment using Azure or AWS
+- FastAPI analytics APIs
+- Cloud analytics workflows
+- AI-powered reporting systems
 
 ---
 
-# Contribution Guidelines
+# 📚 Certifications
 
-Contributions are welcome.
-
-## Steps
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push branch
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
+- 🎓 Data Analytics Professional — Zappkode Academy
+- 📊 Power BI Specialist — Coursera
 
 ---
 
-# Roadmap
+# 🎯 Current Goals
 
-## Phase 1 — Data Analytics Foundation
-- SQL projects
-- Power BI dashboards
-- EDA workflows
-
-## Phase 2 — Advanced Analytics
-- Statistical analysis
-- Predictive dashboards
-- KPI automation
-
-## Phase 3 — Machine Learning
-- Classification models
-- Regression systems
-- Forecasting
-
-## Phase 4 — AI Integration
-- NLP analytics
-- AI-powered business insights
-- Automated reporting assistants
+- Build enterprise-level dashboards
+- Improve ML engineering skills
+- Learn cloud data platforms
+- Create AI-powered analytics systems
+- Contribute to open-source analytics projects
 
 ---
 
-# Changelog
+# 🤝 Connect With Me
 
-## v1.0.0
-- Initial portfolio release
-- Added Power BI and SQL projects
-- Added analytics workflow documentation
+<div align="center">
 
-## Upcoming
-- Add ML projects
-- Add deployment pipelines
-- Add API documentation
+<a href="mailto:jatin.chaurawar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://linkedin.com/in/jatin-chaurawar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# Visual Suggestions
+<a href="https://github.com/Jatin-Chaurawar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Recommended visuals:
-- Dashboard screenshots
-- KPI cards
-- SQL workflow diagrams
-- EDA charts
-- Model lifecycle diagrams
-
-Example placeholder:
-
-```markdown
-![Dashboard Preview](images/dashboard-preview.png)
-```
+</div>
 
 ---
 
-# Markdown Styling Notes
+<div align="center">
 
-## Recommended Formatting Practices
+## 💡 “Turning Complex Data Into Strategic Decisions.”
 
-### Use Consistent Headers
-```markdown
-# Main Header
-## Section
-### Subsection
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00D9FF&height=120&section=footer"/>
 
-### Keep Line Width Readable
-- Prefer shorter paragraphs
-- Use bullet points for readability
-
-### Use Code Blocks Clearly
-````markdown
-```python
-print("Clean formatting")
-```
+</div>
